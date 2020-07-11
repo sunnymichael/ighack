@@ -1,10 +1,10 @@
 #bin/bash
-#script By Noob Hackers
+#script By JaswanthSL
 #The real creator of core files is not us so the credits 
 #Goes to real author
 #colours
 #####3#3#
-red='\033[1;31m'
+blue='\033[1;31m'
 rset='\033[0m'
 grn='\033[1;32m'
 ylo='\033[1;33m'
